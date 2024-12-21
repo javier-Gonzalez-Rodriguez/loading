@@ -70,7 +70,7 @@
                 //se genera el intervalo que aumenta el porcentaje de carga
                 const interval = setInterval(() => {
                     //se obtiene el tiempo pasado en segundos  hasta la ejecucion de este intervalo
-                    this.elapsedTime += this.nextLoadingTick / 100;
+                    this.elapsedTime += this.nextLoadingTick / 1000;
                     //se calcula el porcentaje de carga usando el tiempo pasado con respecto el tiempo estimado
                     var aux = parseInt((this.elapsedTime / this.estimatedTime) * 100);
 
