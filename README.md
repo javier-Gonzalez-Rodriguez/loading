@@ -59,7 +59,7 @@ Este repositorio contiene un componente de ventana de carga (Custom-loading) que
 1.Con la siguiente configuración una vez se obtiene la instancia del componente se puede usar la funcion ***increasePercent*** para aumentar el porcentaje de completado de la tarea
 
 ```
-<custom-loading
+    <custom-loading
         v-if="loading"
         reference-type="manual"
         @on-mounted="onMoutedLoading"
