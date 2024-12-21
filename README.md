@@ -67,6 +67,6 @@ Este repositorio contiene un componente de ventana de carga (Custom-loading) que
 ```
 
 <p align="center">
-   <img src="./imagenes/loading.gif" alt="Interfaz principal">
+   <img src="./images/loading.gif" alt="Interfaz principal">
 </p>
 
