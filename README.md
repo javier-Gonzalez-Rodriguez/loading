@@ -18,14 +18,14 @@ Este repositorio contiene un componente de ventana de carga (Custom-loading) que
 - Tiempo estimado en segundos que establece el porcentaje a mostar hasta llegar al 100%
 ---
 
-###referenceType
+### ReferenceType
 
 - Por defecto se encuentra establecido como "time" para usar ***estimatedTime***, pudiendose configurar como "manual" si se desea establecer de forma manual el porcentaje que se muestra en pantalla
 ---
 
-#Funciones accesibles
+# Funciones accesibles
 
-###increasePercent
+### increasePercent
 
 - Incrementa el porcentaje de forma manual cuyo primer parametro es la cantidad de porcentaje a aumentar por ejemplo si porcentaje = 40% y se desea que pase a 45% el valor a usar en la función es 5.
 ---
