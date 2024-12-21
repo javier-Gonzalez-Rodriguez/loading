@@ -3,8 +3,8 @@ Este repositorio contiene un componente de ventana de carga (Custom-loading) que
 
 # Características
 
--Dado un tiempo en segundos la interfaz de pantalla de carga mostrará el porcentaje de completado de la tarea.
--Mostrar el porcentaje de completado de una tarea pasando como parametro el porcentaje completado.
+- Dado un tiempo en segundos la interfaz de pantalla de carga mostrará el porcentaje de completado de la tarea.
+- Mostrar el porcentaje de completado de una tarea pasando como parametro el porcentaje completado.
 
 # Instalación
 
